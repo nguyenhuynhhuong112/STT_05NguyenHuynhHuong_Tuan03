@@ -7,7 +7,7 @@ const Footer = () =>{
     return (
         <View style={styles.footer}>
             <View>
-                <Text >Enter online password sent on</Text>
+                <Text style={styles.text}>Enter online password sent on</Text>
                 <Text style={styles.text}>++849092650798</Text>
             </View>
             <View>

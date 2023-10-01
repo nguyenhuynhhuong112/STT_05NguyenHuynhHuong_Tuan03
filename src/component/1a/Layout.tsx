@@ -7,6 +7,7 @@ import { Footer } from './Footer/Footer'
 export const Layout = ()=>{
     return (
         <View style={style.container}>
+            
             <View style={style.header}>
                 <Header />
             </View>

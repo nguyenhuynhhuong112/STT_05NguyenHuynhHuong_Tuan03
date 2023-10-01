@@ -9,6 +9,7 @@ const styles = StyleSheet.create({
     text :{
         textAlign:'center',
         paddingBottom:10,
+        fontWeight:'700'
     }
     
 

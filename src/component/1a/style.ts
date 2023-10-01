@@ -1,7 +1,8 @@
 import { StyleSheet } from "react-native";
 export const style = StyleSheet.create({
     container:{
-        flex:1
+        flex:1,
+        backgroundColor:'#C7F4F6'
     },
     header:{
         flex:1,

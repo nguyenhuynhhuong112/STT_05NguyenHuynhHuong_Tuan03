@@ -2,7 +2,7 @@ import { StyleSheet } from "react-native";
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor:'background: rgba(255, 255, 255, 1)',
+    backgroundColor:'#C7F4F6',
     flex: 1,
   },
   gradient: {
