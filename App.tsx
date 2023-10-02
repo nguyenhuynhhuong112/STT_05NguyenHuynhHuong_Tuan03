@@ -5,7 +5,8 @@ import { Layout } from './src/component/2a/Layout';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Layout />
+      <Layout/>
+      {/* <Verify /> */}
     </View>
   );
 }
